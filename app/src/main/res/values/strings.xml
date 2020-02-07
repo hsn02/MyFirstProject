@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="konten_berita">
+      PETIK pesantren teknologi informasi
+        dan komunikasi Depok
+    </string>
+</resources>
