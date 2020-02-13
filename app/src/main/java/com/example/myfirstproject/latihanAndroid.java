@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class latihanAndroid extends AppCompatActivity {
+    int b = 10;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
