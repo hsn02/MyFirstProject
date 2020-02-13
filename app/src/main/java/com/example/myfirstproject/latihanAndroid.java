@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class latihanAndroid extends AppCompatActivity {
     int b = 10;
-    int c = 8;
+    int c = 89;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
