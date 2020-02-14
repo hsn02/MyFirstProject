@@ -4,4 +4,10 @@
       PETIK pesantren teknologi informasi
         dan komunikasi Depok
     </string>
+    <string name="app_name">MyFirstProject</string>
+    <string name="kata_kata">
+        >KTP harus terfoto sepenuhnya
+        >KTP harus tampak jelas (tidak buram)
+        >KTp masih berlaku
+    </string>
 </resources>
