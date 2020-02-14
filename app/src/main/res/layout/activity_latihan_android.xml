@@ -20,7 +20,8 @@
         android:layout_height="188dp"
         android:text="@string/kata_kata"
         android:textColor="@color/abu"
-        android:textSize="30sp">
+        android:textSize="40dp">
+
 
     </TextView>
 

@@ -10,5 +10,7 @@ public class Daftar_Ulang extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_daftar__ulang);
+
+        int a = 10;
     }
 }
